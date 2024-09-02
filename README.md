@@ -1,6 +1,6 @@
-![V2222](https://github.com/user-attachments/assets/cc775738-c503-4b12-938f-c5063364e135)
-
-
+<div align="center">
+  <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/cc775738-c503-4b12-938f-c5063364e135"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Ossama Touayri</h1>
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
