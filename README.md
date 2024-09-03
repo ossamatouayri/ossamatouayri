@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **c & c++ programming languages**
 
-- 💬 Ask me about **Shell | OOP |**
+- 💬 Ask me about **Shell | OOP**
 
 - 📫 How to reach me **otouayri@gmail.com**
 
