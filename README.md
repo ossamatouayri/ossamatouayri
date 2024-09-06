@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/boxee99" target="blank"><img src="https://img.shields.io/twitter/follow/boxee99?logo=twitter&style=for-the-badge" alt="boxee99" /></a> </p>
 
-- 🧑‍🎓 I’m an IT Student at **1337 coding school(42 Network)**
+- 🧑‍🎓 I’m an IT Student at **1337 coding school  (42 Network)**
 
 - 🌱 I’m currently learning **C & C++ programming languages**
 
