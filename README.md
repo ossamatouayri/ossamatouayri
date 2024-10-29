@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Shell | OOP**
 
-- 📫 How to reach me **otouayri@gmail.com**
+- 📫 How to reach me **ostouayr@student.1337.ma**
 
 - ⚡ Fun fact **I speak code fluently, but still learning how to talk to my coffee machine!**
 
